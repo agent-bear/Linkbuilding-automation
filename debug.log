@@ -6,3 +6,6 @@
 [1119/143407.437:ERROR:exception_snapshot_win.cc(99)] thread ID 12676 not found in process
 [1119/154312.305:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
 [1119/154312.306:ERROR:exception_snapshot_win.cc(99)] thread ID 26996 not found in process
+[1126/113712.815:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[1126/121451.034:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[1126/124718.979:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
