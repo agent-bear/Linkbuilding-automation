@@ -25,3 +25,141 @@
 [1129/134542.930:ERROR:exception_snapshot_win.cc(99)] thread ID 7856 not found in process
 [1129/134542.942:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
 [1129/134542.942:ERROR:exception_snapshot_win.cc(99)] thread ID 26392 not found in process
+[1203/122026.069:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/122026.070:ERROR:exception_snapshot_win.cc(99)] thread ID 12628 not found in process
+[1203/122026.070:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/122026.084:ERROR:exception_snapshot_win.cc(99)] thread ID 8780 not found in process
+[1203/122026.091:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/122026.091:ERROR:exception_snapshot_win.cc(99)] thread ID 27504 not found in process
+[1203/122026.092:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/122026.092:ERROR:exception_snapshot_win.cc(99)] thread ID 4560 not found in process
+[1203/123848.080:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/123848.081:ERROR:exception_snapshot_win.cc(99)] thread ID 23820 not found in process
+[1203/123848.091:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/123848.091:ERROR:exception_snapshot_win.cc(99)] thread ID 13188 not found in process
+[1203/125010.496:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.497:ERROR:exception_snapshot_win.cc(99)] thread ID 8388 not found in process
+[1203/125010.497:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.498:ERROR:exception_snapshot_win.cc(99)] thread ID 14196 not found in process
+[1203/125010.497:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.498:ERROR:exception_snapshot_win.cc(99)] thread ID 14436 not found in process
+[1203/125010.498:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.498:ERROR:exception_snapshot_win.cc(99)] thread ID 5488 not found in process
+[1203/125010.518:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.518:ERROR:exception_snapshot_win.cc(99)] thread ID 26392 not found in process
+[1203/125010.519:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.519:ERROR:exception_snapshot_win.cc(99)] thread ID 13272 not found in process
+[1203/125010.521:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125010.521:ERROR:exception_snapshot_win.cc(99)] thread ID 25444 not found in process
+[1203/125545.619:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125545.620:ERROR:exception_snapshot_win.cc(99)] thread ID 12536 not found in process
+[1203/125545.619:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125545.620:ERROR:exception_snapshot_win.cc(99)] thread ID 16152 not found in process
+[1203/125545.637:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125545.637:ERROR:exception_snapshot_win.cc(99)] thread ID 20780 not found in process
+[1203/125545.637:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/125545.637:ERROR:exception_snapshot_win.cc(99)] thread ID 5624 not found in process
+[1203/131616.795:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/131616.796:ERROR:exception_snapshot_win.cc(99)] thread ID 13744 not found in process
+[1203/131616.811:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/131616.811:ERROR:exception_snapshot_win.cc(99)] thread ID 23772 not found in process
+[1203/133205.610:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133205.611:ERROR:exception_snapshot_win.cc(99)] thread ID 18644 not found in process
+[1203/133205.625:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133205.625:ERROR:exception_snapshot_win.cc(99)] thread ID 7592 not found in process
+[1203/133317.388:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133317.388:ERROR:exception_snapshot_win.cc(99)] thread ID 16240 not found in process
+[1203/133317.406:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133317.406:ERROR:exception_snapshot_win.cc(99)] thread ID 16724 not found in process
+[1203/133506.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133506.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133506.672:ERROR:exception_snapshot_win.cc(99)] thread ID 1668 not found in process
+[1203/133506.672:ERROR:exception_snapshot_win.cc(99)] thread ID 13384 not found in process
+[1203/133506.694:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133506.694:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/133506.694:ERROR:exception_snapshot_win.cc(99)] thread ID 16104 not found in process
+[1203/133506.694:ERROR:exception_snapshot_win.cc(99)] thread ID 11524 not found in process
+[1203/134629.305:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/134629.306:ERROR:exception_snapshot_win.cc(99)] thread ID 2988 not found in process
+[1203/134629.319:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/134629.319:ERROR:exception_snapshot_win.cc(99)] thread ID 19220 not found in process
+[1203/135903.174:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/135903.175:ERROR:exception_snapshot_win.cc(99)] thread ID 16464 not found in process
+[1203/135903.188:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/135903.188:ERROR:exception_snapshot_win.cc(99)] thread ID 17780 not found in process
+[1203/140101.017:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/140101.018:ERROR:exception_snapshot_win.cc(99)] thread ID 23484 not found in process
+[1203/140101.032:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/140101.033:ERROR:exception_snapshot_win.cc(99)] thread ID 25676 not found in process
+[1203/140445.525:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/140445.526:ERROR:exception_snapshot_win.cc(99)] thread ID 19248 not found in process
+[1203/140445.538:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/140445.538:ERROR:exception_snapshot_win.cc(99)] thread ID 17520 not found in process
+[1203/140641.973:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/140641.974:ERROR:exception_snapshot_win.cc(99)] thread ID 21420 not found in process
+[1203/140641.986:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/140641.986:ERROR:exception_snapshot_win.cc(99)] thread ID 1920 not found in process
+[1203/141037.270:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141037.271:ERROR:exception_snapshot_win.cc(99)] thread ID 3892 not found in process
+[1203/141037.284:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141037.284:ERROR:exception_snapshot_win.cc(99)] thread ID 20648 not found in process
+[1203/141121.301:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141121.302:ERROR:exception_snapshot_win.cc(99)] thread ID 11972 not found in process
+[1203/141121.313:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141121.313:ERROR:exception_snapshot_win.cc(99)] thread ID 12912 not found in process
+[1203/141445.812:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141445.813:ERROR:exception_snapshot_win.cc(99)] thread ID 17904 not found in process
+[1203/141445.823:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141445.823:ERROR:exception_snapshot_win.cc(99)] thread ID 22464 not found in process
+[1203/141631.509:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141631.509:ERROR:exception_snapshot_win.cc(99)] thread ID 21784 not found in process
+[1203/141631.519:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141631.519:ERROR:exception_snapshot_win.cc(99)] thread ID 10944 not found in process
+[1203/141956.611:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141956.612:ERROR:exception_snapshot_win.cc(99)] thread ID 19320 not found in process
+[1203/141956.625:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/141956.625:ERROR:exception_snapshot_win.cc(99)] thread ID 26652 not found in process
+[1203/142719.654:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/142719.655:ERROR:exception_snapshot_win.cc(99)] thread ID 14584 not found in process
+[1203/142719.654:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/142719.655:ERROR:exception_snapshot_win.cc(99)] thread ID 3816 not found in process
+[1203/142719.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/142719.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1203/142719.671:ERROR:exception_snapshot_win.cc(99)] thread ID 19856 not found in process
+[1203/142719.671:ERROR:exception_snapshot_win.cc(99)] thread ID 19432 not found in process
+[1206/172810.415:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1206/172810.465:ERROR:exception_snapshot_win.cc(99)] thread ID 13820 not found in process
+[1206/172810.427:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1206/172810.465:ERROR:exception_snapshot_win.cc(99)] thread ID 8504 not found in process
+[1207/194204.831:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1207/194204.840:ERROR:exception_snapshot_win.cc(99)] thread ID 7392 not found in process
+[1209/181316.086:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/181316.087:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/181316.100:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/181316.086:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/181316.127:ERROR:exception_snapshot_win.cc(99)] thread ID 20440 not found in process
+[1209/181316.127:ERROR:exception_snapshot_win.cc(99)] thread ID 19476 not found in process
+[1209/181316.127:ERROR:exception_snapshot_win.cc(99)] thread ID 19804 not found in process
+[1209/181316.127:ERROR:exception_snapshot_win.cc(99)] thread ID 13408 not found in process
+[1209/182936.771:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[1209/184136.557:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/184136.558:ERROR:exception_snapshot_win.cc(99)] thread ID 11560 not found in process
+[1209/184136.570:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/184136.570:ERROR:exception_snapshot_win.cc(99)] thread ID 15928 not found in process
+[1209/191836.949:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[1209/192758.887:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/192758.888:ERROR:exception_snapshot_win.cc(99)] thread ID 9452 not found in process
+[1209/192758.902:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/192758.902:ERROR:exception_snapshot_win.cc(99)] thread ID 10804 not found in process
+[1209/193429.266:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/193429.267:ERROR:exception_snapshot_win.cc(99)] thread ID 17624 not found in process
+[1209/193429.282:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/193429.282:ERROR:exception_snapshot_win.cc(99)] thread ID 2324 not found in process
+[1209/193556.701:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/193556.702:ERROR:exception_snapshot_win.cc(99)] thread ID 11828 not found in process
+[1209/193556.718:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/193556.718:ERROR:exception_snapshot_win.cc(99)] thread ID 8656 not found in process
+[1209/193901.561:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/193901.562:ERROR:exception_snapshot_win.cc(99)] thread ID 17836 not found in process
+[1209/193901.574:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[1209/193901.575:ERROR:exception_snapshot_win.cc(99)] thread ID 9072 not found in process
