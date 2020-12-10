@@ -9,26 +9,27 @@ browser = Browser("chrome")
 Completed = []
 Failed = []
 
+#loads the webpage as soon as the webserver has started
 def init():
     browser.visit("http://127.0.0.1:8080/")
 
-def init2(data):
-    print(data)
 
+#the main loop that navigates to the page and requests the backlink
 def requestLinks(req_data):
+    #opens a new tab to do all of the requesting
     browser.driver.execute_script("window.open('');")
 
     for backlink in req_data["linksToRequest"]:
 
-        #modifies existing strings to fill form fields.
+        #modifies the TargetURL form the request to fill form fields on the webpage
         targetDomain = re.sub("http.*?://", "", backlink)
         targetSubdomain = re.sub("\..*?/", "", targetDomain)
         targetDomain = re.sub("/", "", targetDomain)
 
-        #calls api request with current target url
+        #sends GET request to Majestic API to retrieve backlinks to fill the form
         availableBackLinks = getBackLinkURLs(targetDomain, req_data)
 
-        #switches to the new tab and visits the backlink
+        #switches to the new tab and visits the targetURL
         browser.windows.current = browser.windows[1]
         browser.visit(backlink)
         time.sleep(1)
@@ -41,6 +42,7 @@ def requestLinks(req_data):
                 button.click()
                 break
 
+        #fills the request form
         time.sleep(1)
         browser.find_by_name("email").fill(req_data["targetEmail"])
         time.sleep(0.1)
@@ -52,6 +54,7 @@ def requestLinks(req_data):
         time.sleep(0.1)
         browser.find_by_name("linkurl").fill(req_data["targetURL"])
 
+        #tries all potential backlinks
         for link in availableBackLinks:
             #fills every backlink until one matches
             browser.find_by_name("backlink").fill(link)
@@ -69,15 +72,16 @@ def requestLinks(req_data):
             
             time.sleep(2)
 
-            #breaks the for loop if the link gets accepted.
+            #breaks the for loop if the link gets accepted and adds it to a list if it succeeds
             if browser.is_text_present("succesvol") == True:
                 print("link successvol aangevraagd!")
                 Completed.append(backlink)
                 break
-        
+    #if it fails to request the backlink using the retrieved backlinks it adds the link to the failed list
     if browser.is_text_present("succesvol") == False:
         Failed.append(backlink)
 
+    #prints the links that failed and succeeded
     print("Completed: ", Completed)
     print("Failed: ", Failed)
 
@@ -98,6 +102,7 @@ def getBackLinkURLs(targetDomain, req_data):
     'Mode': 1,
     };
 
+    #uses a diffferent request URL if the value in webserver response is set to true
     if req_data["devEnviroment"]:
         r = requests.get('https://developer.majestic.com/api/json', data)
     else:

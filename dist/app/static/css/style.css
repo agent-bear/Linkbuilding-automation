@@ -1,0 +1,128 @@
+body {  
+    display: grid;
+        grid-template-columns: auto 20% 20% 20% 20% auto;
+        grid-template-rows: 200px 20px 120px 120px 150px 150px auto;  
+    background-color:#002E48;
+    object-fit: fill;
+    font-family: Poppins, sans-serif;
+}
+
+.title{
+    grid-row: 1/2;
+    grid-column: 2/6;
+    
+    padding: 10px;
+}
+
+#logo{
+    height: 150px;
+
+    float: left;
+    padding-top: 18px;
+}
+
+#desc{
+    text-align: right;
+    color: white;
+    font-size: 48px;
+}
+
+.content{
+    padding: 20px;
+    padding-left: 30px;
+    margin: 10px;
+    border-radius: 10px;
+
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+.formElement{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+#siteData{
+    grid-row: 3/7;
+    grid-column: 2/4;
+}
+
+#apiData{
+    grid-row: 3/5;
+    grid-column: 4/6;
+}
+
+
+#backlinkList{
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    background-color: #f6f6f6;
+    border-radius: 5px;
+
+    padding: 15px;
+    height: 200px;
+
+    overflow: auto;
+}
+
+.deleteButton{
+    width: 50px;
+    height: 20px;
+
+    position: relative;
+    float: right;
+
+    border: none;
+    border-radius: 5px;
+
+    color: white;
+    background-color: #EE3D96;
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.backlinkButton{
+    width: 160px;
+    height: 30px;
+
+    border: none;
+    border-radius: 5px;
+
+    color: white;
+    background-color: #EE3D96;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#addBacklink{
+    margin-right: 5px;
+}
+
+#removeBacklink{
+    margin-left: 5px;
+}
+
+#startLinkBuilding{
+    grid-column: 4/6;
+    grid-row: 5/6;
+
+    width: 250px;
+    height: 100px;
+    
+    margin: auto;
+    margin-top: 60px;
+    
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #89d2dc;
+    font-family: Poppins, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
